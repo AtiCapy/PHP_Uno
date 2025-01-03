@@ -25,7 +25,6 @@ if ($result && $result->num_rows > 0) {
 ?>
 
     <main class="container mt-5">
-        <h1 class="text-center">Global Stats</h1>
         <div class="row justify-content-center mt-4">
             <div class="col-md-8">
                 <div class="card">
