@@ -24,7 +24,6 @@ $stmt->close();
 ?>
 
     <main class="container mt-5">
-        <h1 class="text-center">Profile: <?= htmlspecialchars($user['UserName']); ?></h1>
         <div class="row justify-content-center mt-4">
             <div class="col-md-6">
                 <div class="card">
